@@ -1,2 +1,2 @@
 # DNS-Benchmark
-A DNS Benchmarking too written in C for your CLI
+A DNS Benchmarking tool written in C for your CLI
